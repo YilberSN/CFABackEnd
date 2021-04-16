@@ -14,7 +14,7 @@
 	<name>PruebaCloudforAll</name>
 	<description>Prueba Front End y Back End para aplicar al cargo</description>
 	<properties>
-		<java.version>11</java.version>
+		<!-- java.version>11</java.version-->
 	</properties>
 	<dependencies>
 		<dependency>
