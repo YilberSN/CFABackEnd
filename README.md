@@ -52,7 +52,7 @@ Backend disponible en:
 [https://yilber-prueba-cfa.herokuapp.com/](https://yilber-prueba-cfa.herokuapp.com/)
 
 Front disponible en:  
-[https://yilber-cfa-frontend.herokuapp.com/](https://yilber-prueba-cfa.herokuapp.com/)  
+[https://yilber-cfa-frontend.herokuapp.com/](https://yilber-cfa-frontend.herokuapp.com/listar)  
 
 
 ## 9. Vista previa del proyecto
