@@ -57,13 +57,13 @@ Front disponible en:
 
 ## 9. Vista previa del proyecto
 
-####Imagenes del Frontend
+#### Imagenes del Frontend
 ![image](https://drive.google.com/uc?export=view&id=1uXVwp4_HU_sE6DC7XCI-xU8cmbtcWL2n)  
 
 ![image](https://drive.google.com/uc?export=view&id=10-fPqhBPQ2kAn0XNeIFiyzPyvXcv8pH5)  
 
 
-####Imagenes respuesta Backend
+#### Imagenes respuesta Backend
 
 ![image](https://drive.google.com/uc?export=view&id=14LIMS24TqwIjet8iU56-S73tZ7IKjAt-)  
 
