@@ -85,6 +85,12 @@ public class Controlador {
     	return servicioProducto.borrar(idproducto);
     }
     
+    //Metodo get para devolver la lista de las productos disponibles
+    @GetMapping(path = {"/productos"})
+    public List<producto>listarproductos(){
+        return servicioProducto.listarProducto();
+    }
+    
     //Metodo post para agregar una venta
     //Aqui se valida los datos de entrada desde el frontend se busca el producto a comprar en una tabla en la base de datos
     //se valida que exista el producto y se extrae el costo individual y el lugar de despacho con el fin de devolver
