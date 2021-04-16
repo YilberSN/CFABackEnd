@@ -117,7 +117,7 @@ public class Controlador {
     		
     		//Se construye el mensaje a mostrar de la venta realizada correctamente
     		map.put("mensaje", "Venta realizada!\nId de la factura: "+nueva_venta.getIdventa()
-    				+"\nValor individual: $"+nueva_venta.getValorventa()
+    				+"\nValor individual: $"+producto_preventa.getPrecio()
     				+"\nCantidad: "+datos.getCantidad()
     				+"\nValor descontado: $"+nueva_venta.getValorventa()
     				+"\nLugar de despacho: "+nueva_venta.getLugardespacho());
