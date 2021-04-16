@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.proyecto.producto.producto;
 import com.proyecto.producto.productoServicio;
 
-//Agregamos la dirección donde esta el frontend
-@CrossOrigin(origins = "http://localhost:4200",maxAge = 3600)
+//Anotaciones
+@CrossOrigin
 @RestController
 @RequestMapping({"/venta"})
 public class Controlador {
